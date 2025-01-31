@@ -50,6 +50,4 @@ pip install numpy matplotlib torch kornia
 ## Acknowledgments
 
 - **Pedro Felzenszwalb's** Canny edge detection handout.
-- **Matplotlib & OpenCV** for image processing and visualization.
-- **NumPy** for numerical computations.
 
